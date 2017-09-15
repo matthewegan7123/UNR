@@ -1,2 +1,2 @@
-# UNR
-A test thing that I'm doing for a lecture.
+Editor: Matthew Egan
+Date: 09/15/2017
